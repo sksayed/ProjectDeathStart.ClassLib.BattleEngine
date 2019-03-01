@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectDeathStart.ClassLib.BattleEngine", "ProjectDeathStart.ClassLib.BattleEngine\ProjectDeathStart.ClassLib.BattleEngine.csproj", "{9895443D-A6CC-4DC6-9E69-3418EA0626FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9895443D-A6CC-4DC6-9E69-3418EA0626FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9895443D-A6CC-4DC6-9E69-3418EA0626FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9895443D-A6CC-4DC6-9E69-3418EA0626FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9895443D-A6CC-4DC6-9E69-3418EA0626FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E22FF94-4FE7-425A-B470-3CE49C550982}
+	EndGlobalSection
+EndGlobal
